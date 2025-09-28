@@ -1,6 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/boyavtar.svg";
+// import myImg from "../../Assets/boyavtar.svg";
+import myImg from "../../Assets/ProfilePic.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub, AiOutlineMail
