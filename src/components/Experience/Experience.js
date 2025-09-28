@@ -7,6 +7,13 @@ import Particle from '../Particle'; // Importing the Particle component for the 
 
 const experiences = [
   {
+    title: 'Associate IT Consultant',
+    company: 'ITC Infotech',
+    duration: '04/2024 – Present',
+    location: 'Bangalore',
+    skills: ['Python/Django', 'ReactJS', 'REST API Development', 'Enterprise Solutions', 'Agile/Scrum'],
+  },
+  {
     title: 'Web Development Intern',
     company: 'Lets Grow More',
     duration: '01/2022 – 02/2022',
@@ -19,13 +26,6 @@ const experiences = [
     duration: '12/2021 – 01/2022',
     location: 'Pune',
     skills: ['Virtual Internship', 'Creative Web Pages', 'Online Classroom System'],
-  },
-  {
-    title: 'Associate IT Consultant',
-    company: 'ITC Infotech',
-    duration: '04/2024 – Present',
-    location: 'Bangalore',
-    skills: ['Python/Django', 'ReactJS', 'REST API Development', 'Enterprise Solutions', 'Agile/Scrum'],
   },
 ];
 
